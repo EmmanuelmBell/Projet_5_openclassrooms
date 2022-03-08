@@ -11,8 +11,7 @@ Il s'agit de fichiers jupyter notebook.
 
 ### Environnement
 
-Jupyter 4.4.0 - Python 3.7.0.final.0 - Conda 4.5.11 - Pandas 0.23.4 - Numpy 1.15.1
-Scipy 1.1.0 - Sklearn 0.19.2 - Matplotlib 2.2.3
+R
 
 
 ## Auteur
