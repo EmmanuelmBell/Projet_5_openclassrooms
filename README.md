@@ -7,6 +7,11 @@ A partir de données téléchargées sur le site de la F.A.O, le script va:
 Une troisième partie réalise des tests statistiques  
 Il s'agit de fichiers jupyter notebook.
   
+## Compétences évaluées
+
+- Construire et lire un dendogramme
+- Tester l’adéquation à une loi par un test statistique
+- Interpréter une ACP
   ---------------------------------------- Projet en cours d'évaluation ----------------------------------------
 
 ### Environnement
